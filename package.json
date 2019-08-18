@@ -1,5 +1,5 @@
 {
-  "name": "chips-event",
+  "name": "chipsjs-event",
   "version": "1.0.0",
   "description": "support for  publishing and subscribing events",
   "main": "event.js",
